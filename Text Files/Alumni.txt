@@ -1,0 +1,121 @@
+AlumID*FirstName*LastName*Street-Perm*City-Perm*State-Perm*Zip-Perm*Phone-Perm*Email*MajorID*GradDate
+Z23133590*Bridget*Knightly*66 Flint St*Asheville*NC*28801*8282510817*bridget@knightly.com*23*8/2012
+Z23133648*Tori*Villaescusa*1006 S San Pedro St*Los Angeles*CA*90015*2137487617*tori@villaescusa.com*59*12/2009
+Z23133676*Claire*Moyerman*2280 S Xanadu Way  #-300*Aurora*CO*80014*3033375701*claire@moyerman.com*34*5/2011
+Z23133742*Judi*Kivel*125 N Emporia St*Wichita*KS*67202*3162672178*judi@kivel.com*68*5/2011
+Z23133743*Terrell*Rodda*200 Cottontail Ln*Somerset*NJ*8873*7325635361*terrell@rodda.com*71*8/2011
+Z23133797*Jasmin*Gum*43 Parmenter Rd*Hudson*MA*1749*9785622524*jasmin@gum.com*135*5/2009
+Z23133853*Bridget*Bottella*112 E Pecan St*San Antonio*TX*78205*2102249708*bridget@bottella.com*74*5/2012
+Z23133898*Tami*Trybus*3963 Virginia Ave*Cincinnati*OH*45227*5135611096*tami@trybus.com*138*12/2010
+Z23133908*Maynard*Kaewprasert*1224 S Hope St*Los Angeles*CA*90015*2137476026*maynard@kaewprasert.com*75*8/2009
+Z23134006*Viola*Mcsorley*6850 S Harlem Ave*Summit Argo*IL*60501*7084967428*viola@mcsorley.com*100*8/2011
+Z23134009*Reggie*Streu*15 Henderson Dr*Caldwell*NJ*7006*9735755898*reggie@streu.com*147*8/2010
+Z23134028*Rena*Griffeth*19901 Nordhoff St*Northridge*CA*91324*8187099165*rena@griffeth.com*16*12/2010
+Z23134086*Pierre*Salera*1601 S Shamrock Ave*Monrovia*CA*91016*6263039233*pierre@salera.com*34*5/2011
+Z23134185*Carolina*Kinlaw*3m County*Belle Mead*NJ*8502*9088740864*carolina@kinlaw.com*93*8/2012
+Z23134211*Alejandra*Prenatt*6850 S Harlem Ave*Summit Argo*IL*60501*7084966958*alejandra@prenatt.com*1*5/2011
+Z23134283*Quintin*Isacson*1015 N Cahuenga Blvd*Los Angeles*CA*90038*3234690643*quintin@isacson.com*96*5/2010
+Z23134348*Robin*Grotz*2601 Summerhill Rd*Texarkana*TX*75503*9037922081*robin@grotz.com*45*12/2010
+Z23134419*Lacy*Woodfin*130 Wyoming Ave*Scranton*PA*18503*5703483754*lacy@woodfin.com*142*5/2010
+Z23134503*Daniel*Zill*550 N Brand Blvd  #-1940*Glendale*CA*91203*8185077207*daniel@zill.com*46*8/2012
+Z23134567*Reina*Wolchesky*305 W Washington St*Brainerd*MN*56401*2188287281*reina@wolchesky.com*18*8/2009
+Z23134613*Marc*Wanger*33 Harrison Ave*Boston*MA*2111*6174266393*marc@wanger.com*128*12/2010
+Z23134658*Damion*Matkin*5830 Downing St  #-d*Denver*CO*80216*3032954797*damion@matkin.com*28*12/2011
+Z23134669*Lucius*Winchester*670 S Barrington Rd*Streamwood*IL*60107*6302899458*lucius@winchester.com*93*8/2012
+Z23134712*Petra*Mcnichol*670 S Barrington Rd*Streamwood*IL*60107*6302898190*petra@mcnichol.com*95*8/2011
+Z23134794*Katina*Ramano*580 Fountain Ave*Brooklyn*NY*11208*7182722553*katina@ramano.com*27*8/2011
+Z23134847*Leslie*Cackowski*2103 W Main St*Farmington*NM*87401*5053253933*leslie@cackowski.com*141*5/2011
+Z23134911*Cristopher*Wiget*4354 Highway 64*Kirtland*NM*87417*5055989742*cristopher@wiget.com*36*8/2009
+Z23134970*Garth*Skiffington*22 Mill St*Paterson*NJ*7501*9736847654*garth@skiffington.com*4*5/2011
+Z23135052*Brendan*Qin*305 Griffin Ave Sw*Eastman*GA*31023*4783745686*brendan@qin.com*128*5/2009
+Z23135152*Chase*Furler*3333 Se 21st St*Topeka*KS*66607*7853547091*chase@furler.com*121*5/2012
+Z23135154*Marietta*Bjornberg*1515 Wyoming St*Missoula*MT*59801*4067280501*marietta@bjornberg.com*95*8/2012
+Z23135190*Carmella*Wishman*1515 Wyoming St*Missoula*MT*59801*4067286772*carmella@wishman.com*127*8/2010
+Z23135266*Erica*Eyrich*1515 Wyoming St*Missoula*MT*59801*4067287293*erica@eyrich.com*112*12/2010
+Z23135310*Lucius*Bagnoli*404 W Boonville New Harmony Rd*Evansville*IN*47711*8128672916*lucius@bagnoli.com*101*5/2012
+Z23135351*Bart*Hachey*490 S Broad St*Canfield*OH*44406*3305339769*bart@hachey.com*134*12/2009
+Z23135361*Isiah*Phernetton*246 Griffing Ave*Riverhead*NY*11901*6317270917*isiah@phernetton.com*24*5/2011
+Z23135428*Morton*Crummell*5485 Conestoga Ct*Boulder*CO*80301*3035463698*morton@crummell.com*6*8/2011
+Z23135525*Prince*Kauk*2320 W Louise Dr*Phoenix*AZ*85027*6235817435*prince@kauk.com*19*5/2012
+Z23135610*Marta*Horner*4694 Alvarado Canyon Rd  #-f*San Diego*CA*92120*8582652270*marta@horner.com*126*12/2009
+Z23135706*Teodoro*Gaboury*4251 Glenwood Ave*Youngstown*OH*44512*3307838123*teodoro@gaboury.com*15*5/2010
+Z23135750*Jess*Assad*9100 F St*Omaha*NE*68127*4023310470*jess@assad.com*112*5/2012
+Z23135831*Freeman*Soula*Hwy 8e E*Mena*AR*71953*4793946308*freeman@soula.com*142*5/2011
+Z23135837*Rita*Center*4013 Cameron St  #-b*Lafayette*LA*70506*3372698825*rita@center.com*133*8/2012
+Z23135927*Kira*Papen*8387 University Ave*La Mesa*CA*91941*6194643649*kira@papen.com*68*5/2011
+Z23135951*Miquel*Demicco*5921 S Middlefield Rd*Littleton*CO*80123*3037308080*miquel@demicco.com*29*12/2010
+Z23136023*William*Mahmud*1003 Northern Blvd*Manhasset*NY*11030*5163653496*william@mahmud.com*86*8/2009
+Z23136098*Lacy*Belmont*585 Bedford Rd*Bedford Hills*NY*10507*9142418888*lacy@belmont.com*58*8/2009
+Z23136151*Van*Leanen*Bus Rt 54 & Hh*Lake Ozark*MO*65049*5733650319*van@leanen.com*76*5/2011
+Z23136172*Mayme*Staub*2470 Lamington Rd*Bedminster*NJ*7921*9082349338*mayme@staub.com*46*12/2009
+Z23136191*Gregg*Guevarra*221 S Kerr Ave*Wilmington*NC*28403*9107999811*gregg@guevarra.com*102*12/2009
+Z23136254*Minh*Leclare*106 S 4th St*Forest City*IA*50436*6415820973*minh@leclare.com*19*8/2012
+Z23136331*Joey*Sedore*1647 E Palmdale Blvd*Palmdale*CA*93550*6612734188*joey@sedore.com*65*8/2012
+Z23136395*Jeanie*Dalen*2900 Ford Rd*Bristol*PA*19007*2157885062*jeanie@dalen.com*57*8/2011
+Z23136415*Eddie*Gauer*506 Kellogg Ave*Ames*IA*50010*5152332381*eddie@gauer.com*41*5/2010
+Z23136442*Jessie*Barkle*1002 S Treadaway Blvd*Abilene*TX*79602*3256771190*jessie@barkle.com*56*5/2010
+Z23136468*Deandre*Resendiz*4 Trvl Svc Carlson Trvl Ways*Twin Falls*ID*83301*2087338306*deandre@resendiz.com*48*5/2012
+Z23136506*Janet*Rathrock*2181 Harlem Rd*Loves Park*IL*61111*8158774376*janet@rathrock.com*5*8/2011
+Z23136573*Denice*Nordlinger*7210 Gateway Blvd E*El Paso*TX*79915*9155932344*denice@nordlinger.com*103*5/2011
+Z23136576*Danny*Dales*3530 E Washington St*Phoenix*AZ*85034*6022259543*danny@dales.com*97*5/2009
+Z23136578*Robbie*Deshay*1700 Terminal St*West Sacramento*CA*95691*9163725032*robbie@deshay.com*127*5/2011
+Z23136642*Carla*Humble*11796 Sheldon St*Sun Valley*CA*91352*8187680662*carla@humble.com*147*12/2010
+Z23136675*Ashley*Leonesio*15 Park Row*New York*NY*10038*2122273681*ashley@leonesio.com*13*5/2011
+Z23136755*Josephine*Sotlar*400 1st St Nw*Washington*DC*20001*2027832772*josephine@sotlar.com*143*8/2012
+Z23136790*Derek*Kreutzbender*411 E Wisconsin Ave*Milwaukee*WI*53202*4142715253*derek@kreutzbender.com*102*5/2011
+Z23136855*Kira*Staffon*933 Wiliwili St*Honolulu*HI*96826*8089490941*kira@staffon.com*99*5/2009
+Z23136913*Isaac*Davensizer*444 Nahua St*Honolulu*HI*96815*8085445794*isaac@davensizer.com*100*12/2009
+Z23137002*Reva*Bayer*4011 Wallingford Ave N*Seattle*WA*98103*2066349998*reva@bayer.com*53*5/2009
+Z23137090*Melvin*Auteri*463 Beacon St*Boston*MA*2115*6172478022*melvin@auteri.com*41*5/2009
+Z23137149*Stephen*Seiters*814 Blue Mound Rd*Fort Worth*TX*76131*8179473102*stephen@seiters.com*68*12/2010
+Z23137191*Lucas*Santellana*4820 E Mcdowell Rd  #-300*Phoenix*AZ*85008*6022253469*lucas@santellana.com*80*8/2012
+Z23137240*Traci*Toomey*Box #-1948*Jackson*WY*83001*3077339708*traci@toomey.com*99*12/2009
+Z23137262*Vernice*Resendes*11796 Sheldon St*Sun Valley*CA*91352*8187686234*vernice@resendes.com*84*5/2010
+Z23137337*Hillary*Holmes*7565 Green Valley Rd*Placerville*CA*95667*5306261934*hillary@holmes.com*112*8/2011
+Z23137403*Robin*Schartz*10175 Joerschke Dr*Grass Valley*CA*95945*5304779983*robin@schartz.com*94*8/2011
+Z23137433*Sabrina*Deppert*2701 E Thomas Rd  #-j*Phoenix*AZ*85016*6029544343*sabrina@deppert.com*6*8/2012
+Z23137508*Luciano*Truiolo*435 Mira Vista Ter*Pasadena*CA*91105*6267926850*luciano@truiolo.com*51*5/2012
+Z23137527*Ezekiel*Mildon*10 Rogers St*Cambridge*MA*2142*6174945618*ezekiel@mildon.com*66*8/2012
+Z23137591*Hanna*Cinkan*1150 Nw 72nd Ave  #-333*Miami*FL*33126*3054777869*hanna@cinkan.com*142*8/2010
+Z23137640*Kory*Wooldridge*1525 E 53rd St*Chicago*IL*60615*3127536734*kory@wooldridge.com*50*8/2009
+Z23137718*Darrel*Ruffins*2800 4th St N*Saint Petersburg*FL*33704*7278218502*darrel@ruffins.com*134*5/2011
+Z23137810*Miranda*Hammitt*964 E Saint Francis St*Brownsville*TX*78520*9565415918*miranda@hammitt.com*21*8/2011
+Z23137895*Sadie*Rowlett*2659 Webster Ave*Bronx*NY*10458*7183651753*sadie@rowlett.com*96*8/2012
+Z23137950*Deanna*Gerbi*264 Broadway*Jersey City*NJ*7306*2014330391*deanna@gerbi.com*77*8/2012
+Z23137979*Alfonso*Griglen*577 Township Road  #-30s*Ada*OH*45810*4196343513*alfonso@griglen.com*54*5/2009
+Z23138051*Vernon*Engelman*321 Watson St*Ripon*WI*54971*9207481387*vernon@engelman.com*53*12/2011
+Z23138142*Johnnie*Rheaves*2910 E La Cresta Ave*Anaheim*CA*92806*7146321291*johnnie@rheaves.com*136*8/2010
+Z23138186*Ella*Pahnke*2640 Junction Hwy*Kerrville*TX*78028*8303678513*ella@pahnke.com*119*12/2011
+Z23138272*Veronica*Achorn*5201 Hanawalt Dr*El Paso*TX*79903*9157723217*veronica@achorn.com*84*12/2009
+Z23138334*Kasey*Nguyen*5603 Arapahoe Ave*Boulder*CO*80303*3034403916*kasey@nguyen.com*24*12/2011
+Z23138350*Frankie*Morein*104 North St*Stamford*CT*6902*2039753712*frankie@morein.com*146*8/2012
+Z23138363*Elaine*Renzi*221 E 59th St*New York*NY*10022*2128267966*elaine@renzi.com*31*5/2011
+Z23138403*Timothy*Janski*800 E Dimond Blvd*Anchorage*AK*99515*9073444330*timothy@janski.com*115*8/2010
+Z23138412*Warren*Hacher*4600 S 1st St*Abilene*TX*79605*3256917220*warren@hacher.com*27*5/2010
+Z23138423*Brant*Darnel*8250 Tyler Blvd*Mentor*OH*44060*4409748416*brant@darnel.com*106*5/2012
+Z23138501*Mara*Rineheart*39 W 21st St*Northampton*PA*18067*6102622444*mara@rineheart.com*65*5/2012
+Z23138517*Karen*Flierl*501 N I  #-h35*Austin*TX*78702*5124771826*karen@flierl.com*135*5/2009
+Z23138564*Virgil*Chinni*248 Libby St*Honolulu*HI*96819*8088419811*virgil@chinni.com*114*5/2012
+Z23138613*Jimmie*Kertzman*279 Puuhale Rd*Honolulu*HI*96819*8088412883*jimmie@kertzman.com*116*8/2010
+Z23138693*Leif*Bachta*91246 Oihana St*Kapolei*HI*96707*8086828942*leif@bachta.com*81*5/2009
+Z23138787*Ione*Kucera*94210 Pupukahi St  #-201a*Waipahu*HI*96797*8086715253*ione@kucera.com*132*5/2011
+Z23138823*Doreen*Sakurai*211 E 50th St*New York*NY*10022*2127594757*doreen@sakurai.com*65*5/2009
+Z23138902*Joel*Nardo*5150 Town Center Cir*Boca Raton*FL*33486*5613952277*joel@nardo.com*53*5/2010
+Z23138960*Neil*Backus*521 5th Ave*New York*NY*10175*2125374955*neil@backus.com*25*12/2010
+Z23138965*Fausto*Marks*200 Stuart St*Boston*MA*2116*6174519353*fausto@marks.com*70*12/2010
+Z23138999*Christa*Bodenschatz*Tilton Rd*Danville*IL*61832*2174436280*christa@bodenschatz.com*49*8/2010
+Z23139080*Chi*Greenlaw*4300 N Miller Rd  #-143*Scottsdale*AZ*85251*4809461537*chi@greenlaw.com*142*5/2012
+Z23139130*Kyle*Ferri*1801 E 5th Ave*Anchorage*AK*99501*9072722216*kyle@ferri.com*38*12/2010
+Z23139157*Freida*Michelfelder*117 Martin Luther King Jr Dr S*Atlanta*GA*30303*4045213372*freida@michelfelder.com*147*8/2010
+Z23139194*Bryant*Bouliouris*480 W Pearl Ave*Jackson*WY*83001*3077338286*bryant@bouliouris.com*103*8/2009
+Z23139285*Emilia*Oxley*14651 Dallas Pky*Dallas*TX*75240*2147028125*emilia@oxley.com*25*5/2011
+Z23139322*Naomi*Mcraven*13456 Se 27th Pl*Bellevue*WA*98005*4256415463*naomi@mcraven.com*60*8/2012
+Z23139371*Dionne*Borycz*77 S Washington St  #-207*Rockville*MD*20850*3012940154*dionne@borycz.com*50*5/2011
+Z23139460*Jimmy*Hrobsky*8253 Ronson Rd*San Diego*CA*92111*8582684663*jimmy@hrobsky.com*109*5/2011
+Z23139531*Peggy*Hohlstein*Rt 20*Westfield*MA*1085*4135432933*peggy@hohlstein.com*12*5/2012
+Z23139623*Genevieve*Kekiwi*8300 Bell Ter*Newburgh*IN*47630*8124773620*genevieve@kekiwi.com*59*8/2011
+Z23139688*Terra*Plagge*60 Minute Photo Colormax*Evansville*IN*47715*8124779524*terra@plagge.com*31*12/2009
+Z23139768*Allie*Pumphrey*501 N Weinbach Ave*Evansville*IN*47711*8124770753*allie@pumphrey.com*41*5/2009
+Z23139813*Katina*Survant*590 N 2nd E*Mountain Home*ID*83647*2085873734*katina@survant.com*110*8/2011
+Z23139859*Marta*Warran*2929 W Kennewick Ave*Kennewick*WA*99336*5097358388*marta@warran.com*80*12/2011
+Z23139869*Rebekah*Lindboe*600 Las Colinas Blvd E*Irving*TX*75039*9725561121*rebekah@lindboe.com*52*8/2010
